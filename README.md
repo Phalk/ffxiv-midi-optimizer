@@ -2,7 +2,7 @@
 
 REQUIREMENTS:
 * Python 3.x
-* `mido` library (`pip install mido`)
+* mido library (pip install mido)
 
 What it does:
 
