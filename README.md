@@ -2,8 +2,7 @@
 
 REQUIREMENTS:
 * Python 3.x
-* `mido` library (Run: `pip install mido` in your terminal/cmd)
-* (Note: Uses built-in `tkinter` for the file picker, no extra install needed).*
+* `mido` library (`pip install mido`)
 
 What it does:
 
