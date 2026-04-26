@@ -7,7 +7,7 @@ The Ultimate FFXIV MIDI Optimizer Tool for Bards
 *(Note: Uses built-in `tkinter` for the file picker, no extra install needed).*
 
 🚀 **HOW TO RUN:**
-Double-click `bardo_mixer.py` to open the native file picker, OR drag & drop a `.mid` file directly onto the script!
+Double-click `ffxiv-midi-optimizer.py` to open the native file picker, OR drag & drop a `.mid` file directly onto the script!
 
 🌍 **GLOBAL COMMANDS (Affects the whole song):**
 `[ m ] Remap to FFXIV` - Converts weird GM instruments (Synths, Pads, FX) into valid FFXIV patches (Lute, Flute, Cello) so MidiBard2 detects the right icons automatically.
